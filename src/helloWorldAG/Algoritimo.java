@@ -1,5 +1,7 @@
 package helloWorldAG;
 
+import java.util.Random;
+
 public class Algoritimo {
     private static String solucao;
     private static double taxaDeCrossover;
